@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZHEERExtra12
-- 👀 I’m interested in SOftWARE Developing
+- 👀 I’m interested in SOFTWARE Developing
 - 🌱 I’m currently learning : React js, .NET 8
 - 😄 Pronouns: He
 - ⚡ Fun fact: NOTHING :-)
