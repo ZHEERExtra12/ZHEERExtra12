@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Next js , node js<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Next js , node js 🌱 I’m currently learning SpringBoot <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
